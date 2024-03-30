@@ -1,0 +1,41 @@
+{
+  "projects": [
+    {
+      
+      "title": "TECHVISTA",
+      "description": "This project showcases mastery in responsive React UI design, offering a single-page app with seamless navigation, tabbed layouts, and captivating carousels. Through innovative tech and design fusion, it delivers a contemporary, device-agnostic experience.",
+      "url": "https://react-project-1-tau.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+    },
+
+    {
+     
+      "title": "VIDEO HUB",
+      "description": "Powered by Chakra UI, this dynamic React app offers seamless theme switching, video player/upload, and secure authentication. Fully responsive, it ensures an immersive experience on laptops, mobiles, and iPads.",
+      "url": "https://video-hub-project-react.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+    },
+    {
+      
+      "title": "XCrypto",
+      "description": "XCrypto is a dynamic project leveraging Axios to fetch data using real-time API illustrating Bitcoin exchange rates in USD, INR, and Euro.It displays dynamically fetched static Bitcoin information, ensuring complete responsiveness across all devices.",
+      "url": "https://react-crypto-app-project.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+    },
+
+    {
+      
+      "title": "REACT CART",
+      "description": "Built with Redux Toolkit for state management, this project features product listings with add-to-cart and delete functionalities. It performs real-time calculations for items added or removed from the cart and is completely responsive.",
+      "url": "https://react-cart-project-lyart.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+    },
+    {
+   
+      "title": "PORTFOLIO",
+      "description": "This digital portfolio showcases all projects with full animation and a beautiful carousel. Data entered is seamlessly sent to Firebase, ensuring complete responsiveness across devices.",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+    }
+  ]
+}
